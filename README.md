@@ -92,21 +92,23 @@ void loop()
  }
 }
 ```
-Figure no 2:
+**Figure no 2:**
+
 ![f9ig 2](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/2ae1f560-d34b-4b11-8c89-9d68f2536f05)
+
+**Figure no 3:ON Condition**
+
+![image](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/dc50c177-dc9e-40d2-9146-a69e7eb55a95)
+
+**Figure no 4: OFF Condition**
+
+![image](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/0abda445-a6e5-43e7-8896-e360079f8f03)
+
+**Schematic Diagram**
+
 **
 **Simulation output:** 
 **
-
-Figure no 3:ON Condition
-![image](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/dc50c177-dc9e-40d2-9146-a69e7eb55a95)
-
-Figure no 4: OFF Condition
-![image](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/0abda445-a6e5-43e7-8896-e360079f8f03)
-
-Schematic Diagram
-
-
 
 
 **RESULT: ** Arduino uno analog input functioning is learned and interfaced with digital input switch .
