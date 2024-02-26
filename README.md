@@ -68,7 +68,32 @@ CIRCUIT DIAGRAM
 
 
 **PROGRAM** 
- 
+ ```
+int pot;
+int led=7;
+void setup()
+{
+  pinMode(led,OUTPUT);
+  Serial.begin(9600);
+}
+void loop()
+{
+ pot=analogRead(A0);
+ //Serial.print("Value=");
+ Serial.println(pot);
+ if(pot>900)
+ {
+ digitalWrite(LED_BUILTIN, HIGH);
+ delay(1000);
+ digitalWrite(LED_BUILTIN, LOW);
+ delay(1000);
+ }
+ else
+ { digitalWrite(led,LOW);
+  delay(500);
+ }
+}
+```
 
 
 
@@ -82,8 +107,6 @@ CIRCUIT DIAGRAM
 **Simulation output:** 
 **
 
-
-[My image](username.github.com/repository/img/image.jpg)
 
 
 
