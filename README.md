@@ -48,8 +48,7 @@ CIRCUIT DIAGRAM
 
 ![image](https://user-images.githubusercontent.com/36288975/163530788-eec3cdc3-95e8-4d2d-8349-6d0ea4c9439c.png)
 
-**FIGURE -01
-**
+# FIGURE -01
 
 **PROCEDURE:**
 
@@ -107,7 +106,7 @@ void loop()
 **Schematic Diagram**
 
 **
-**Simulation output:** 
+# Simulation output:
 **
 ![WhatsApp Image 2024-02-26 at 04 27 20_7cacbfa2](https://github.com/DIVYADHARSHINI-08/EXPERIMENT-NO--02-INTERFACING-ANALOG-INPUT-SENSOR-POT-WITH-ARDUINO-/assets/145210448/de94260a-cef9-4c70-9d7a-b2bd290a4c2e)
 
